@@ -1,8 +1,8 @@
 ## Scrollable-image
 
-DATE:22-03-2025
+DATE: 22-03-2025
 
-NAME:SWETHA A
+NAME: SWETHA A
 
 Aim:
 Design and implement an interactive image gallery using JavaScript, HTML, and CSS. The gallery should meet the following requirements:
@@ -16,7 +16,7 @@ Style the gallery using CSS for a visually appealing and responsive design.
 Include a footer at the bottom of the page with the text "Learner's Name and Register Number".
 Your solution should include well-structured HTML, CSS, and JavaScript code, ensuring smooth user experience and navigation.
 
-##Program
+# Program
 ```
 assign.html
 
