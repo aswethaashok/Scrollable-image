@@ -187,14 +187,14 @@ function scrollGallery(amount) {
 
 ```
 
-#output
+# Output
 ![Screenshot 2025-03-22 094231](https://github.com/user-attachments/assets/89724437-5a89-44b7-b054-2f134917c965)
 
 ![Screenshot 2025-03-22 094256](https://github.com/user-attachments/assets/c03c24a6-f8bb-4817-8c72-ed869c5230c1)
 
 ![Screenshot 2025-03-22 094410](https://github.com/user-attachments/assets/728d37a8-d7cd-4399-a1ce-bc91c61d7f12)
 
-#Result
+# Result
 This experiment is implemented using HTML,CSS and JS.
 
 
